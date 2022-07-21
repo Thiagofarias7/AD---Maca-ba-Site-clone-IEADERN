@@ -1,0 +1,107 @@
+#logo1{
+    cursor: pointer;
+    margin-top: 12px;
+    margin-left: 50px;
+    position: relative;
+}
+#disp{
+    margin-top: 20px;
+}
+#namepri{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 190px;
+    font-size: 18px;
+    color: rgb(12, 12, 53);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#retancle{
+    background-color: rgb(12, 12, 53);
+    height: 20px;
+    width: 1352px;
+    margin-top: 0px;
+    margin-left: 0px;
+    font-family: Source Sans Pro;
+}
+#cadeado{
+    position: absolute;
+    margin-top:2px;
+    cursor: pointer;
+    margin-left:1160px;
+    width: 125px; 
+    height: 125px;
+}
+* { margin: 0; padding: 0; }
+#retancle1{
+    background-color: rgb(12, 12, 53);
+    height: 20px;
+    width: 1352px;
+    margin-top: 120px;
+    margin-left: 0px;
+}
+#btn1{
+    color: rgb(12, 12, 53);
+    margin-left: 280px;
+    margin-top: 50px;
+    font-size: 20px;
+    position: absolute;
+    font-family: Source Sans Pro;
+    text-decoration: none;
+}
+#btn2{
+    margin-left: 420px;
+    color: rgb(12, 12, 53);
+    margin-top: 50px;
+    position: absolute;
+    font-family: Source Sans Pro;
+    text-decoration: none;
+    font-size: 20px;
+}
+#btn3{
+    text-decoration: none;
+    margin-left: 600px;
+    color: rgb(12, 12, 53);
+    position: absolute;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+}
+#btn4{
+    text-decoration: none;
+    margin-left: 770px;
+    font-size: 20px;
+    margin-top: 50px;
+    position: absolute;
+    color: rgb(12, 12, 53);
+    font-family: Source Sans Pro;
+}
+#btn5{
+    margin-left: 980px;
+    color: rgb(12, 12, 53);
+    margin-top: 50px;
+    position: absolute;
+    font-family: Source Sans Pro;
+    text-decoration: none;
+    font-size: 20px;
+}
+#retanclefim{
+    width: 1352px;
+    height: 300px;
+    position: absolute;
+    background-color: rgb(12, 12, 53);
+}
+#logofim{
+    cursor: pointer;
+    position: relative;
+    margin-top: 80px;
+    margin-left: 140px;
+    width:75px;
+    height: 85px;
+}
+#mfinalp{
+    color: white;
+}
+
+
+
+
